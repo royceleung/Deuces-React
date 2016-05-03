@@ -1,0 +1,25 @@
+{
+  "name": "deuces",
+  "version": "1.0.0",
+  "description": "Deuces Card Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrkl2x/Deuces-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xrkl2x/Deuces-React/issues"
+  },
+  "homepage": "https://github.com/xrkl2x/Deuces-React#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "express": "^4.13.4",
+    "nodemon": "^1.9.2"
+  }
+}
